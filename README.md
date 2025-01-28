@@ -2,10 +2,10 @@
 
 Esse projeto trata-se de um semafaro de tranasito que muda as cores conforme os comandos acionados.
 
-[Click here to access](https://)
+[Click here to access](https://chhenriquee.github.io/semafaro-js/)
 
 
-![calc-IMC](https://cf5-4bf6-4369-bca5-7ea4109ca09b)
+![Image](https://github.com/user-attachments/assets/bfde5141-5715-4d2e-9185-c0063a9c3485)
 
 
 ## Tecnologias usadas
